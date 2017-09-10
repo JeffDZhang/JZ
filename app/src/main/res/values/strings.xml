@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">STKPlus</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="tab_menu_alert">简介</string>
+    <string name="tab_menu_profile">帮助</string>
+    <string name="tab_menu_pay">设备信息</string>
+    <!--<string name="tab_menu_help">设置</string>-->
+
+    <string name="tip">      使用USB数据线连接电脑，如果没有检测到设备，请尝试以下操作：</string>
+    <string name="tip1">步骤一：点击进入【设置】【关于手机】</string>
+    <string name="tip2">步骤二：连续点击【版本号】若干次，进入到开发者模式</string>
+    <string name="tip3">步骤三：返回【设置】界面，进入【开发人员选项】</string>
+    <string name="tip4">步骤四：打开并允许【USB调试】</string>
+    <string name="tip5">步骤五：重新连接设备和电脑，在设备的授权连接弹框上点击“确定”，完成连接</string>
+
 </resources>

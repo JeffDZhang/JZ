@@ -4,8 +4,8 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "com.example.admin.myapplication"
-        minSdkVersion 17
+        applicationId "com.huawei.stkplus"
+        minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
         versionName "1.0"

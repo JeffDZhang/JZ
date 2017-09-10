@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:scrollbars="vertical"
+    android:fadingEdge="vertical">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg_white"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+    <TextView
+        android:id="@+id/tip"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity=""
+        android:text="@string/tip"
+        android:textColor="@color/text_black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tip1"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity=""
+        android:text="@string/tip1"
+        android:textColor="@color/text_black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/pic_set1"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic_set1" />
+
+    <ImageView
+        android:id="@+id/pic_set2"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic_set2" />
+
+    <TextView
+    android:id="@+id/tip2"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:gravity=""
+    android:text="@string/tip2"
+    android:textColor="@color/text_black"
+    android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/pic2"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic2" />
+
+    <TextView
+        android:id="@+id/tip3"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity=""
+        android:text="@string/tip3"
+        android:textColor="@color/text_black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/pic3"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic3" />
+
+    <TextView
+        android:id="@+id/tip4"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity=""
+        android:text="@string/tip4"
+        android:textColor="@color/text_black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/pic4"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic4" />
+
+    <TextView
+        android:id="@+id/tip5"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity=""
+        android:text="@string/tip5"
+        android:textColor="@color/text_black"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/pic5"
+        android:layout_width="352dp"
+        android:layout_height="285dp"
+        android:src="@mipmap/pic5" />
+
+
+
+</LinearLayout>
+</ScrollView>
